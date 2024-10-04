@@ -58,6 +58,9 @@ This application is a simple task management system built with a React frontend 
 
    The frontend application will run on `http://localhost:3000`.
 
+## Demonstration
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/d06adf4c-51f1-458e-a5ff-b70b26af72d5">
+
 ## Available Scripts
 
 ### Backend
